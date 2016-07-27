@@ -1,0 +1,29 @@
+{
+  "name": "react-state-prop-test",
+  "version": "1.0.0",
+  "description": "react props state test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/597574484/react-state-props-test.git"
+  },
+  "keywords": [
+    "react",
+    "props",
+    "state",
+    "test"
+  ],
+  "author": "fanhehe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/597574484/react-state-props-test/issues"
+  },
+  "homepage": "https://github.com/597574484/react-state-props-test#readme",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
